@@ -36,3 +36,5 @@ spec:
           #   capabilities:
           #     drop:
           #       - all
+      imagePullSecrets:
+        - name: regcred
