@@ -14,4 +14,3 @@ resources:
   - resources/namespace.yaml
   - resources/deployment.yaml
   - resources/service.yaml
-  - config/regcred-secret.yaml
